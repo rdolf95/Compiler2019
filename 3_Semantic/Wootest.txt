@@ -1,0 +1,12 @@
+int function(void){
+    int a;
+    return a;
+}
+
+int main(void)
+{ 
+    int function;
+    int x;
+    x = x + function();
+    return function;
+}
